@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.main input{
+    margin: 5px;
+    width: 150px;
+    height: 20px;
+}
+
+ th , td{
+    border: 1px solid black;
+}
